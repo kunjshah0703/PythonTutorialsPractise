@@ -1,5 +1,6 @@
 """
-# Creating a dictionary
+
+# Creating your own dictionary
 
 print("Enter a word to know it's meaning: ")
 a = input( )
