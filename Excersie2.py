@@ -1,4 +1,4 @@
-"""
+
 # Faulty Calculator
 
 # operator1 = input("Enter a operation to do")
@@ -15,4 +15,4 @@ elif operator1 == "*":
     print("Result is :", 0)
 elif operator1 == "-":
     print("Result is :", a - b)
-    """
+    
